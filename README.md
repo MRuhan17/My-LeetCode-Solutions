@@ -19,7 +19,7 @@ This repository contains my solutions to problems from [LeetCode](https://leetco
 - 🐍 **Python**
 - 📊 **Pandas**
 - 🌐 **Go**
-  
+- ☕ **Java**
 
 ## 🌟 Highlights
 - 📂 **Dynamic Programming**: Mastered key concepts and solved `X` problems.
