@@ -20,6 +20,8 @@ This repository contains my solutions to problems from [LeetCode](https://leetco
 - 📊 **Pandas**
 - 🌐 **Go**
 - ☕ **Java**
+- 💎 **C++**
+- 🔵 **C**
 
 ## 🌟 Highlights
 - 📂 **Dynamic Programming**: Mastered key concepts and solved `X` problems.
