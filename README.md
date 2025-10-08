@@ -23,13 +23,6 @@ This repository contains my solutions to problems from [LeetCode](https://leetco
 - 💎 **C++**
 - 🔵 **C**
 
-## 🌟 Highlights
-- 📂 **Dynamic Programming**: Mastered key concepts and solved `X` problems.
-- 🧮 **Math**: Enhanced mathematical logic through `X` problems.
-- 🌲 **Trees & Graphs**: Tackled `X` problems using BFS, DFS, and more.
-
----
-
 ## 🤝 Contributions
 Feel free to:
 - ⭐ Star this repository.
