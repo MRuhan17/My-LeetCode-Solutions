@@ -32,8 +32,8 @@ Feel free to:
 ---
 
 ## 🧠 Let's Connect
-- **LeetCode Profile**: [LeetCode](https://leetcode.com/u/MRuhan17/)
-- **GitHub**: [GitHub](https://github.com/MRuhan17)
+- [LeetCode](https://leetcode.com/u/MRuhan17/)
+- [GitHub](https://github.com/MRuhan17)
 
 Happy Coding! 😊
 
