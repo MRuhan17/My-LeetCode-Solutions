@@ -32,7 +32,7 @@ Feel free to:
 ---
 
 ## 🧠 Let's Connect
-- **LeetCode Profile**: ([https://leetcode.com/u/24R21A05C5/)](https://leetcode.com/u/MRuhan17/)
+- **LeetCode Profile**: ((https://leetcode.com/u/MRuhan17/)
 - **GitHub**: (https://github.com/MRuhan17)
 
 Happy Coding! 😊
