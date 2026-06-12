@@ -5,7 +5,6 @@ Feel free to:
 -  Fork it to contribute.
 -  Suggest optimizations or report bugs.
 
----
 
 ##  Let's Connect
 - [LeetCode](https://leetcode.com/u/MRuhan17/)
