@@ -1,4 +1,4 @@
-This repository contains my solutions to problems from [LeetCode](https://leetcode.com/). Each solution is implemented with clean, optimized code, and categorized by topic and difficulty for easy navigation.
+This repository contains my solutions to problems from [LeetCode](https://leetcode.com/). Each solution is implemented with clean, optimized code.
 
 Feel free to:
 -  Star this repository.
